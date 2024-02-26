@@ -10,6 +10,7 @@
 - [Default parameters] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
 - [Rest parameter] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
 - [Javascript ES6 — Iterables and Iterators] (https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4)
+- [MyPy cheat sheet](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
 
 ## Learning Objectives
 
