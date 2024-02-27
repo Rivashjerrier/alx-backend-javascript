@@ -43,6 +43,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 **Create a new file named `0-calcul.js`:**
  - Create a function named `calculateNumber`. It should accepts two arguments (number) `a` and `b`
  - The function should round `a` and `b` and return the sum of it
+<br>
 **Test cases**
  - Create a file `0-calcul.test.js` that contains test cases of this function
  - You can assume `a` and `b` are always number
