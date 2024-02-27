@@ -93,9 +93,9 @@ true
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `0-promise.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `0-promise.js`
 
 ### [1. Don't make a promise...if you know you can't keep it](./1-promise.js)
 Using the prototype below, return a `promise`. The parameter is a `boolean`.
@@ -127,9 +127,9 @@ Promise {
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `1-promise.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `1-promise.js`
 
 ### [2. Catch me if you can!](./2-then.js)
 Using the function prototype below
@@ -155,9 +155,9 @@ Got a response from the API
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `2-then.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `2-then.js`
 
 ### [3. Handle multiple successful promises](./3-all.js)
 In this file, import `uploadPhoto` and `createUser` from `utils.js`
@@ -178,9 +178,9 @@ photo-profile-1 Guillaume Salva
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `3-all.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `3-all.js`
 
 ### [4. Simple promise](./4-user-promise.js)
 Using the following prototype
@@ -207,9 +207,9 @@ Promise { { firstName: 'Bob', lastName: 'Dylan' } }
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `4-user-promise.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `4-user-promise.js`
 
 ### [5. Reject the promises](./5-photo-reject.js)
 Write and export a function named `uploadPhoto`. It should accept one argument `fileName` (string).
@@ -234,9 +234,9 @@ Promise {
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `5-photo-reject.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `5-photo-reject.js`
 
 ### [6. Handle multiple promises](./6-final-user.js)
 Import `signUpUser` from `4-user-promise.js` and `uploadPhoto` from `5-photo-reject.js`.
@@ -262,9 +262,9 @@ Promise { <pending> }
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `6-final-user.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `6-final-user.js`
 
 ### [7. Load balancer](./7-load_balancer.js)
 Write and export a function named `loadBalancer`. It should accept two arguments `chinaDownload` (Promise) and `USDownload` (Promise).
@@ -307,9 +307,9 @@ Downloading from FR is faster
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `7-load_balancer.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `7-load_balancer.js`
 
 ### [8. Throw error / try catch](./8-try.js)
 Write a function named `divideFunction` that will accept two arguments: `numerator` (Number) and `denominator` (Number).
@@ -337,9 +337,9 @@ bob@dylan:~$ npm run dev 8-main.js
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `8-try.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `8-try.js`
 
 ### [9. Throw an error](./9-try.js)
 Write a function named `guardrail` that will accept one argument `mathFunction` (Function). 
@@ -367,9 +367,9 @@ bob@dylan:~$ npm run dev 9-main.js
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `9-try.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `9-try.js`
 
 ## Advanced Tasks
 
@@ -409,13 +409,15 @@ bob@dylan:~$ npm run dev 100-main.js
 bob@dylan:~$
 ```
 **Repo:**
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
-File: `100-await.js`
+* GitHub repository: `alx-backend-javascript`
+* Directory: `0x01-ES6_promise`
+* File: `100-await.js`
 
 </details>
+
 ---
 
 ## Author
-_Rivash Jerrier_
-- [Github](https://github.com/Rivashjerrier)
+### _Rivash Jerrier_
+
+- **Github:** [Rivashjerrier](https://github.com/Rivashjerrier)
