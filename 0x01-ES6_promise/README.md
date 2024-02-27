@@ -420,4 +420,4 @@ bob@dylan:~$
 ## Author
 ### _Rivash Jerrier_
 
-- **Github:** [Rivashjerrier](https://github.com/Rivashjerrier)
+- **Github:** [Rivash Jerrier](https://github.com/Rivashjerrier)
