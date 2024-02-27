@@ -450,8 +450,17 @@ bob@dylan:~$
 **Requirements:**
  - You should be able to run the test suite using `npm test api.test.js`
  - Every test should pass without any warning
- - Your server should not display any error
+ - Your server should not display any error  
 **Repo:**
 * GitHub repository: `alx-backend-javascript`
 * Directory: `0x06-unittests_in_js`
 * File: `10-api/api.js, 10-api/api.test.js, 10-api/package.json`
+
+</details>
+
+---
+
+## Author
+### _Rivash Jerrier_
+
+- **Github:** [Rivash Jerrier](https://github.com/Rivashjerrier)
