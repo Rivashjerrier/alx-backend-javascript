@@ -401,3 +401,12 @@ If you want to add test to validate your integration, you will need to add this 
 * GitHub repository: `alx-backend-javascript`
 * Directory: `0x05-Node_JS_basic`
 * File: `full_server/utils.js, full_server/controllers/AppController.js, full_server/controllers/StudentsController.js, full_server/routes/index.js, full_server/server.js`
+
+</details>
+
+---
+
+## Author
+### _Rivash Jerrier_
+
+- **Github:** [Rivash Jerrier](https://github.com/Rivashjerrier)
