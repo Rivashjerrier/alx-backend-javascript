@@ -39,7 +39,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### 0. Basic test with Mocha and Node assertion library
 **Install Mocha using npm:**  
  - Set up a scripts in your `package.json` to quickly run Mocha using `npm test`
- - You have to use `assert`
+ - You have to use `assert`  
 **Create a new file named `0-calcul.js`:**  
  - Create a function named `calculateNumber`. It should accepts two arguments (number) `a` and `b`
  - The function should round `a` and `b` and return the sum of it  
